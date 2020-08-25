@@ -33,7 +33,7 @@ HOST1: python3 ApplicationLevelPerformanceMetricsScript.py OTP HW 10 host1
 
 HOST2: python3 ApplicationLevelPerformanceMetricsScript.py OTP HW 10 host2
 
-HOST1: sftp shivendra@10.0.0.5:/home/shivendra/Research/PSec/PerformanceMetricsScript/BaselineCacheHost2.txt /home/shivendra/Research/PSec/PerformanceMetricsScript/BaselineCacheHost2.txt
+HOST1: sftp XXX@10.0.0.5:/home/XXX/Research/PSec/PerformanceMetricsScript/BaselineCacheHost2.txt /home/XXX/Research/PSec/PerformanceMetricsScript/BaselineCacheHost2.txt
 
 HOST1: python3 ApplicationLevelPerformanceMetricsParsing.py
 ```
